@@ -1,6 +1,5 @@
 PyStark>=1.1.5
-git+https://github.com/python/cpython.git
-
+git+https://github.com/python/cpython
 emoji>=1.7.0
 pyromod==1.5
 requests>=2.27.1
